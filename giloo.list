@@ -1,0 +1,5 @@
+# > giloo
+USER-AGENT,giloo*,giloo
+DOMAIN-SUFFIX,giloo.ist,giloo
+DOMAIN-SUFFIX,vimeocdn.com,giloo
+DOMAIN-SUFFIX,vimeo.com,giloo
