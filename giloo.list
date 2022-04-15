@@ -5,4 +5,10 @@ DOMAIN-SUFFIX,vimeocdn.com,giloo
 DOMAIN-SUFFIX,vimeo.com,giloo
 DOMAIN-SUFFIX,quantumgraph.com,giloo
 DOMAIN-SUFFIX,bitmovin.com,giloo
+DOMAIN-SUFFIX,appier.net
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,qgraph.io
+DOMAIN,87vod-adaptive.akamaized.net,giloo
 DOMAIN,152vod-adaptive.akamaized.net,giloo
