@@ -1,4 +1,10 @@
 # > arrowccott
+// CriterionChannel
+DOMAIN-SUFFIX,arrow-player.com,arrowccott
+// Arrow
+DOMAIN-SUFFIX,criterionchannel.com,arrowccott
+DOMAIN-SUFFIX,criterion.com,arrowccott
+// Vimeo
 DOMAIN-SUFFIX,livestream.com,arrowccott
 DOMAIN-SUFFIX,vhx.tv,arrowccott
 DOMAIN-SUFFIX,vhx.com,arrowccott
