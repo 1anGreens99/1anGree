@@ -1,7 +1,7 @@
 # > arrowovidcc
-// CriterionChannel
-DOMAIN-SUFFIX,arrow-player.com,arrowovidcc
 // Arrow
+DOMAIN-SUFFIX,arrow-player.com,arrowovidcc
+// CriterionChannel
 DOMAIN-SUFFIX,criterionchannel.com,arrowovidcc
 DOMAIN-SUFFIX,criterion.com,arrowovidcc
 // OVID
