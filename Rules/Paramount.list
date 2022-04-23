@@ -1,0 +1,19 @@
+# > Paramount
+USER-AGENT,PPlus*,Paramount
+USER-AGENT,ParamountPlus*,Paramount
+DOMAIN-SUFFIX,cbsi.com,Paramount
+DOMAIN-SUFFIX,cbsaavideo.com,Paramount
+DOMAIN-SUFFIX,cbsivideo.com,Paramount
+DOMAIN-SUFFIX,paramountplus.com,Paramount
+DOMAIN-SUFFIX,pplusstatic.com,Paramount
+DOMAIN,cbsi.live.ott.irdeto.com,Paramount
+DOMAIN,thumbnails.cbsig.net,Paramount
+DOMAIN,cbsinteractive.hb.omtrdc.net,Paramount
+DOMAIN,ads.play.cbsi.video,Paramount
+DOMAIN,pubads.g.doubleclick.net,Paramount
+DOMAIN,cbsnews.akamaized.net,Paramount
+DOMAIN,cbsplaylistserver.aws.syncbak.com,Paramount
+DOMAIN,cbsservice.aws.syncbak.com,Paramount
+DOMAIN,link.theplatform.com,Paramount
+DOMAIN-SUFFIX,mtvnservices.com,Paramount
+DOMAIN-SUFFIX,cws.conviva.com,Paramount
