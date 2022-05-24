@@ -1,0 +1,6 @@
+# > rakuten
+USER-AGENT,rakuten*,rakuten
+DOMAIN-SUFFIX,rakuten.co.jp,rakuten
+DOMAIN-SUFFIX,rakuten.com,rakuten
+DOMAIN-SUFFIX,reproio.com,rakuten
+DOMAIN-SUFFIX,aquafadas.asia,rakuten
