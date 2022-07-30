@@ -1,7 +1,7 @@
 # > filmbox
 USER-AGENT,filmbox*,filmbox
 DOMAIN-SUFFIX,filmbox.com,filmbox
-DOMAIN-SUFFIX,tv2zcdn.com,filmbox
-DOMAIN-SUFFIX,tv2zprod.com,filmbox
-DOMAIN-SUFFIX,tv2zanalytics.com,filmbox
-DOMAIN-SUFFIX,dengage.com,filmbox
+DOMAIN,filmboxmedia.tv2zcdn.com,filmbox
+DOMAIN,filmboxassets.tv2zcdn.com,filmbox
+DOMAIN,spi.tv2zanalytics.com,filmbox
+DOMAIN,geturl.tv2zprod.comm,filmbox
