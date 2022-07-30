@@ -1,19 +1,9 @@
 # > PikPak
 USER-AGENT,PikPak*,PikPak
 DOMAIN-SUFFIX,mypikpak.com,PikPak
-DOMAIN-SUFFIX,config.mypikpak.com,PikPak
-DOMAIN-SUFFIX,user.mypikpak.com,PikPak
-DOMAIN-SUFFIX,static.mypikpak.com,PikPak
 DOMAIN-SUFFIX,hubciddata.sandai.net,PikPak
 DOMAIN-SUFFIX,dlandroid.rcv.sandai.net,PikPak
 DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net,PikPak
 DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net,PikPak
 DOMAIN-SUFFIX,hub5pn.wap.sandai.net,PikPak
 DOMAIN-SUFFIX,hub5pnc.sandai.net,PikPak
-DOMAIN-SUFFIX,api-drive.mypikpak.com,PikPak
-DOMAIN-SUFFIX,vod0049-aliyun18-vip-lixian.mypikpak.com,PikPak
-DOMAIN-SUFFIX,vod0050-aliyun18-vip-lixian.mypikpak.com,PikPak
-DOMAIN-SUFFIX,vod0051-aliyun18-vip-lixian.mypikpak.com,PikPak
-DOMAIN-SUFFIX,vod0393-aliyun18-vip-lixian.mypikpak.com,PikPak
-DOMAIN-SUFFIX,vod0395-aliyun18-vip-lixian.mypikpak.com,PikPak
-DOMAIN-KEYWORD,mypikpak,PikPak
