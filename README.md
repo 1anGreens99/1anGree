@@ -2,4 +2,4 @@
 
 自用规则 
 
-TG频道： Digital Life 📺 https://t.me/REdigitallife
+TG频道： [Nothing Channel](https://t.me/zhelishayemeiyou)
