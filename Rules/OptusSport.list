@@ -3,15 +3,18 @@ USER-AGENT,OptusSport*,OptusSport
 DOMAIN-SUFFIX,optus.com.au,OptusSport
 DOMAIN,optussport.pushwoosh.com,OptusSport
 DOMAIN,logs-01.loggly.com,OptusSport
-DOMAIN-SUFFIX, optusdigital.com,OptusSport
-DOMAIN-SUFFIX, optusnet.com.au,OptusSport
-DOMAIN-SUFFIX, optussport.tv,OptusSport
+DOMAIN-SUFFIX,optusdigital.com,OptusSport
+DOMAIN-SUFFIX,optusnet.com.au,OptusSport
+DOMAIN-SUFFIX,optussport.tv,OptusSport
+DOMAIN-SUFFIX,optusvideo.tv,OptusSport
 DOMAIN-KEYWORD,csm-e-optus,OptusSport
 DOMAIN-KEYWORD,csm-e-ceoptaase,OptusSport
 DOMAIN-KEYWORD,drm-widevine-licensing.axprod.net,OptusSport
-DOMAIN,vod.aws.optusvideo.tv,OptusSport
 DOMAIN,vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws,OptusSport
 DOMAIN,mgd0ee5iankkv3gidl14rm7c0.litix.io.com,OptusSport
+DOMAIN,mgd0ee5iankkv3gidl14rm7c0.litix.io,OptusSport
+DOMAIN,bln1.yospace.com,OptusSport
+DOMAIN,tls1.yospace.com,OptusSport
 DOMAIN,d3rj5p7u4c4icq.cloudfront.net,OptusSport
 DOMAIN,d21xmla0sqnlu7.cloudfront.net,OptusSport
 DOMAIN,d27xxe7juh1us6.cloudfront.net,OptusSport
