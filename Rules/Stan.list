@@ -1,7 +1,6 @@
 # > Stan
 USER-AGENT,Stan*,Stan
 DOMAIN-SUFFIX,stan.com.au,Stan
-DOMAIN,stan.video,Stan
-DOMAIN-SUFFIX,live01-stan.akamaized.net,Stan
-DOMAIN-SUFFIX,live02-stan.akamaized.net,Stan
+DOMAIN-SUFFIX,stan.video,Stan
+DOMAIN-KEYWORD,stan.akamaized.net,Stan
 DOMAIN,streamcoimg-a.akamaihd.net,Stan
