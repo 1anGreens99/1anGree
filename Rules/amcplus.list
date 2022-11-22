@@ -1,0 +1,11 @@
+# > amcplus
+DOMAIN-SUFFIX,amcn.com,amcplus
+DOMAIN-SUFFIX,amcplus.com,amcplus
+# Shudder
+DOMAIN-SUFFIX,shudder.com,amcplus
+DOMAIN-SUFFIX,amcsvod.io,amcplus
+DOMAIN,boltshudder1-a.akamaihd.net,amcplus
+# Sundance TV
+DOMAIN,boltsundance1-a.akamaihd.net,amcplus
+DOMAIN-SUFFIX,sundancetv.com,amcplus
+DOMAIN-SUFFIX,sundancenow.com,amcplus
