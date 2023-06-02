@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
-DOMAIN,co33249.ingest.sentry.io
+DOMAIN,o33249.ingest.sentry.io
 DOMAIN,copenaiapi-site.azureedge.net
 DOMAIN,copenaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,copenaicom.imgix.net
