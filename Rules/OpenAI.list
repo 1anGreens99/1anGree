@@ -1,6 +1,7 @@
 # > OpenAI
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,copenaiapi-site.azureedge.net
